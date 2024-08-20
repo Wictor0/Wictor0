@@ -47,7 +47,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" hspace="2" alt="linkedin logo"  />
   </a>
   <a href="https://www.wictormelo.com/" target="_blank">
-    <img src="https://lh5.googleusercontent.com/E2MEMoQrYNiEvb-YpJtXkdU5l-H6yVtjFD-lJ0t-ynu_Kx-cc6-zzo6yzxlgF3Vxt0tNmk5kJupBTXuwWFQ-BgM=w16383" height="60" hspace="2" alt="site logo"  />
+    <img src="https://lh5.googleusercontent.com/E2MEMoQrYNiEvb-YpJtXkdU5l-H6yVtjFD-lJ0t-ynu_Kx-cc6-zzo6yzxlgF3Vxt0tNmk5kJupBTXuwWFQ-BgM=w16383" height="50" hspace="2" alt="site logo"  />
   </a>
   <a href="https://www.instagram.com/wictormannuel/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" hspace="2" alt="instagram logo"  />
