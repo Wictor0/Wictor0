@@ -44,18 +44,18 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wictormelo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:wictormannuel@gmail.com?subject=&body=." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="wictormelo.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://icongr.am/feather/globe.svg?size=128&color=currentColor)" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/wictormannuel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://icongr.am/simple/instagram.svg?size=128&color=currentColor&colored=false)" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<p align="center">wictormelo.com</p>
+
 
 ###
