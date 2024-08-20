@@ -47,10 +47,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.wictormelo.com/" target="_blank">
-    <img src="https://lh3.googleusercontent.com/zzlxAcmxXOhcXvttDNp2YTbOaZmHIzKdRBsKmbNH7bbMMh-W6oWn172Z1r9ovI15QlX94EnZI8Ng4kue0j8ZKLg=w16383" width="52" height="40" alt="site logo"  />
+    <img src="https://lh5.googleusercontent.com/E2MEMoQrYNiEvb-YpJtXkdU5l-H6yVtjFD-lJ0t-ynu_Kx-cc6-zzo6yzxlgF3Vxt0tNmk5kJupBTXuwWFQ-BgM=w16383" width="52" height="40" alt="site logo"  />
   </a>
   <a href="https://www.instagram.com/wictormannuel/" target="_blank">
-    <img src="https://icongr.am/simple/instagram.svg?size=128&color=ffffff&colored=false" width="52" height="40" alt="instagram logo"  />
+    <img src="https://ssl.gstatic.com/atari/images/sociallinks/instagram_white_44dp.png" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
