@@ -47,10 +47,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="wictormelo.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://icongr.am/feather/globe.svg?size=128&color=currentColor)" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://icongr.am/feather/globe.svg?size=128&color=currentColor)" width="52" height="40" alt="site logo"  />
   </a>
   <a href="https://www.instagram.com/wictormannuel/" target="_blank">
-    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://icongr.am/simple/instagram.svg?size=128&color=currentColor&colored=false)" width="52" height="40" alt="instagram logo"  />
+    <img src="https://icongr.am/simple/instagram.svg?size=128&color=currentColor&colored=false" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
