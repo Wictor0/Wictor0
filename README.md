@@ -50,7 +50,7 @@
     <img src="https://lh5.googleusercontent.com/E2MEMoQrYNiEvb-YpJtXkdU5l-H6yVtjFD-lJ0t-ynu_Kx-cc6-zzo6yzxlgF3Vxt0tNmk5kJupBTXuwWFQ-BgM=w16383" height="40" alt="site logo"  />
   </a>
   <a href="https://www.instagram.com/wictormannuel/" target="_blank">
-    <img src="https://icongr.am/simple/instagram.svg?size=90&color=ffffff&colored=false" height="40" alt="instagram logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" alt="instagram logo"  />
   </a>
 </div>
 
