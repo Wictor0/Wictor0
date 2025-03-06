@@ -34,7 +34,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/Nx1rqHCcR48AAAAd/sabrina-carpenter-kiss.gif" />
+<img align="right" height="200" src="https://media.tenor.com/oyfJ-A_D9LcAAAAM/turma-do-cocoric%C3%B3-julio-cocoric%C3%B3.gif" />
 
 ###
 
