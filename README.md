@@ -50,13 +50,13 @@
   <a href="https://www.linkedin.com/in/wictormelo/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="52" height="40" style="margin-right: 20px;" alt="linkedin logo" />
   </a>
+  <a href="https://www.behance.net/wictormeloo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo" />
+  </a>
   <a href="https://www.wictormelo.com/" target="_blank">
     <img src="https://github.com/user-attachments/assets/8396963d-c6b6-4870-af1a-ae6ff8f99b20" height="40" style="margin-right: 20px;" alt="site logo" />
   </a>
   <a href="https://www.instagram.com/wictormannuel/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="40" style="margin-right: 20px;" alt="instagram logo" />
-  </a>
-  <a href="https://www.behance.net/wictormeloo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo" />
   </a>
 </div>
