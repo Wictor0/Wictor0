@@ -10,7 +10,7 @@
 
 ###
 
-<h5>📚 I'm currently studying Computer Science at <a href=https://www.wyden.com.br/unidades/unifbv>Unifbv Wyden</a><br>🎯 Goals: To master coding, contribute to open-source projects, and create impactful tech solutions<br>
+<h4>📚 I'm currently studying Computer Science at <a href=https://www.wyden.com.br/unidades/unifbv>Unifbv Wyden</a><br>🎯 Goals: To master coding, contribute to open-source projects, and create impactful tech solutions<br>
 
 ###
 
