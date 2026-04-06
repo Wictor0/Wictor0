@@ -2,7 +2,7 @@
 
 ###
 
-<h4>My name is Wictor Melo and I'm a Computer Science Student, from Brazil</h6>
+<h4>My name is Wictor Melo and I'm a Software Developer and Analysis and Systems Development student from Brazil</h4>
 
 ###
 
@@ -10,23 +10,17 @@
 
 ###
 
-<h4>📚 I'm currently studying Computer Science at <a href=https://www.wyden.com.br/unidades/unifbv>Unifbv Wyden</a><br>🎯 Goals: To master coding, contribute to open-source projects, and create impactful tech solutions<br>
+<h4>📚 I'm currently pursuing a degree in Analysis and Systems Development at <a href="https://portal.novaroma.edu.br/">Faculdade Nova Roma</a><br>🎯 Goals: To master coding and build impactful tech solutions</h4>
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wictor0&show_icons=true&hide_border=true&theme=dark" 
-    alt = "Git status" 
-    title="Meu status do github"
-    style = "float: right; margin-left: 0px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wictor0&layout=compact&hide_border=true&theme=dark"
-    alt = "Git status" 
-    title ="As linguagens que eu mais uso"
-    style = "float: left; margin-right: 0px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Wictor0&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wictor0&layout=compact&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
 
 <h3>🛠️ My Developer Toolkit</h3>
 
 <div> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo" /> 
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" /> 
   <img width="12" /> 
@@ -43,6 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> 
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo" />
+  <img width="12" /> 
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" height="40" alt="webflow logo" />
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /> 
   <img width="12" /> 
