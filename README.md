@@ -1,4 +1,4 @@
-<sub><code>PORTFOLIO 2026 / WEB DESIGN & DEVELOPMENT</code> &nbsp;·&nbsp; <code>8°00'32"S 34°51'18"W/</code></sub>
+<sub><code>WEB DESIGN & DEVELOPMENT</code> &nbsp;·&nbsp; <code>8°00'32"S 34°51'18"W/</code></sub>
 
 # Hello, World! 🌍
 
