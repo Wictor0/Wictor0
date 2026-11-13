@@ -72,7 +72,7 @@
       </p>
     </td>
     <td align="center" style="border: none;">
-      <a href="https://www.wictormelo.com/" target="_blank">
+      <a href="https://www.wictormelo.com.br/" target="_blank">
         <img src="https://github.com/user-attachments/assets/8396963d-c6b6-4870-af1a-ae6ff8f99b20" height="40" alt="site logo" />
       </a>
       <p style="margin: 4px 0 0; font-size: 10px; color:#444950;">
